@@ -8,7 +8,7 @@ This will be your first solo full stack application with a deadline. This projec
 
 ## Background
 
-** Reads** is a book catalog service that stores a list of recommended technology books. You are building a web app for them. It should allow you to:
+**Reads** is a book catalog service that stores a list of recommended technology books. You are building a web app for them. It should allow you to:
 
 * List books and authors
 * Add books and authors
